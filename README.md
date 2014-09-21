@@ -7,10 +7,10 @@ Collect, work, and clean a data set.
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-* 1. Download source data 
-* 2. Unzip the data to your working directory
-* 3. Execute the script run_analysis.R
-* 
+1. Download source data 
+2. Unzip the data to your working directory
+3. Execute the script run_analysis.R
+
 
 ##Steps done to clean and merge data:
 * Read all data from features.txt
