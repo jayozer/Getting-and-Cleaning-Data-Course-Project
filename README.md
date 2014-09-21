@@ -21,29 +21,19 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * Read all data as comma separated
 * Merge both data as combined data
 * Label the data set
-
-
 * Read all data from y_train.txt
 * Read all data from y_test.txt
 * Merge both data as combined activity data
-
-
 * Read all data from activity_labels.txt
 * Combine activity data with corresponding labels
-
-
 * Read all data from subject_train.txt
 * Read all data from subject_test.txt
 * Merge both data as combined subject data
-
-
 * Merge activity and subject names as combinedActivitySubject
 * Append column names
 * Merge dataset with descriptive variable names
-
-
-* Create a second, independent tidy data set with the average of 
-* each variable for each activity and each subject.
+* Create a second, independent tidy data set with the average  
+* Each variable for each activity and each subject
 * Append column names
 * Create tidyDataSet.txt file into working directory
 
