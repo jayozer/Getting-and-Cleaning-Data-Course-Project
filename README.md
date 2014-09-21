@@ -11,10 +11,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * 2. Unzip the data to your working directory
 * 3. Execute the script run_analysis.R
 * 
-Steps done to clean and merge data:
+
+##Steps done to clean and merge data:
 * 1. Read all data from features.txt
-## Extract only the measurements on the mean and standard deviation
-## Read all data from X_train.txt
+* 2. Extract only the measurements on the mean and standard deviation
+* Read all data from X_train.txt
 ## Read all data as comma separated
 ## Read all data from X_test.txt
 ## Read all data as comma separated
