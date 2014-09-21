@@ -1,7 +1,7 @@
 Getting-and-Cleaning-Data-Course-Project
 ========================================
 
-Collect, work, and clean a data set. The goal is to prepare tidy / reproducable data that can be used for later analysis. The data linked below represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
+Collect, work, and clean a data set. The goal is to prepare tidy / reproducable data that can be used for later analysis. The link below provides the data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
 ##Below is the link to download the data for this project: 
 
